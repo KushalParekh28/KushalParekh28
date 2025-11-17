@@ -15,27 +15,6 @@ I build **clean, scalable, and efficient** digital products with a strong belief
 - 🧼 Passionate about **clean, maintainable, and scalable code**  
 - 🔁 Loves automation, system architecture, and optimization
 
----
-
-## 🧾 Profile Snapshot
-
-A result-oriented **Full Stack Developer** with **12+ years** of experience in:
-
-- Designing and developing **robust web applications**
-- Delivering **scalable, high-performance** solutions with PHP, React.js, Node.js
-- Architecting and implementing complete **end-to-end systems**
-- Leading **UI/UX**, frontend, backend, testing & deployment pipelines
-- Working in **Agile environments** with continuous improvement
-
-**What I Do Best**
-
-✔ Architect full-stack applications  
-✔ Write optimized and maintainable code  
-✔ Prioritize multiple tasks efficiently  
-✔ Lead front-end & back-end development  
-✔ Integrate APIs, cloud services & automation tools  
-
----
 
 ## 🛠️ Technical Skills
 
