@@ -19,7 +19,7 @@
 
 #### Backend
 - Node.js, Express.js  
-- PHP (CodeIgniter, WordPress, Opencart, Cockpit CMS)
+- PHP (CodeIgniter, Opencart, Cockpit CMS)
 
 #### Frontend
 - React.js, Redux  
