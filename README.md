@@ -2,9 +2,6 @@
 
 **Full Stack Developer | 12+ Years Experience | Minimalist | Automation-Driven**
 
-I build **clean, scalable, and efficient** digital products with a strong belief in  
-**“Less is More — in code, design, and life.”**
-
 ---
 
 ## About Me
