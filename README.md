@@ -1,4 +1,4 @@
-# ⭐ Hi there! I'm **Kushal Parekh**
+# Hi there!  I'm **Kushal Parekh**
 
 **Full Stack Developer | 12+ Years Experience | Minimalist | Automation-Driven**
 
@@ -7,16 +7,16 @@ I build **clean, scalable, and efficient** digital products with a strong belief
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🧩 **Minimalist** in design & development  
-- 🎯 **Value-driven** and focused on practical solutions  
-- ⚡ Efficiency-oriented; obsessed with reducing manual work  
-- 🧼 Passionate about **clean, maintainable, and scalable code**  
-- 🔁 Loves automation, system architecture, and optimization
+- **Minimalist** in design & development  
+- **Value-driven** and focused on practical solutions  
+- Efficiency-oriented; obsessed with reducing manual work  
+- Passionate about **clean, maintainable, and scalable code**  
+- Loves automation, system architecture, and optimization
 
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Languages & Frameworks**
 
@@ -34,7 +34,7 @@ I build **clean, scalable, and efficient** digital products with a strong belief
 
 ---
 
-### 🗄️ Database Technologies
+### Database Technologies
 - MySQL  
 - PostgreSQL  
 - MongoDB  
@@ -43,14 +43,14 @@ I build **clean, scalable, and efficient** digital products with a strong belief
 
 ---
 
-### 🔗 APIs & Data Communication
+### APIs & Data Communication
 - RESTful APIs  
 - JSON  
 - Apollo GraphQL
 
 ---
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 - Git & Version Control   
 - Azure
 - Databricks
@@ -60,7 +60,7 @@ I build **clean, scalable, and efficient** digital products with a strong belief
 
 ---
 
-### ⭐ Other Skills
+### Other Skills
 - Payment Gateway Integration  
 - Web3 Technologies  
 - Team Leadership & Project Management  
