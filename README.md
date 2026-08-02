@@ -22,7 +22,7 @@
 - PHP (CodeIgniter, Opencart, Cockpit CMS)
 
 #### Frontend
-- React.js, Redux  
+- React.js, Next.js  
 - HTML5, CSS3, JavaScript, jQuery  
 - TypeScript
 
